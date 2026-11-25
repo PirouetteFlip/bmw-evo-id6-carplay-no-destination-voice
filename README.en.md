@@ -46,7 +46,7 @@ handleAltAudioUpdate(duckAudio, connectionID):
     if turnByTurn == 0:                      # cmp r0,#0 ; beq  <- before the patch it jumps here
         return                               # guidance audio path is not requested -> no sound
 
-    requestBuildHighSyncConnection(guidance audio path)   # nonzero: guidance audio is passed on
+    requestBuildHighSyncConnection           # (guidance audio path)nonzero: guidance audio is passed on
                                              # -> jacinto: source 23 -> sink 4 connection
 ```
 
