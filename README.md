@@ -4,7 +4,7 @@ English: [README.en.md](README.en.md)
 
 # BMW EVO ID6 CarPlay 안심주행 안내음 패치 정리
 
-Nov 25, 2026 · PirouetteFlip
+2026-11-25 · PirouetteFlip
 
 **라이선스**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ko) © 2026 PirouetteFlip. 출처(작성자와 원문 링크)를 표기하면 누구나 자유롭게 복사, 수정, 재배포할 수 있습니다. 아래 위험 안내와 책임 고지는 그대로 적용됩니다.
 
