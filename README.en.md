@@ -1,3 +1,4 @@
+한국어: [README.md](README.md)
 # BMW EVO ID6: Restoring CarPlay Voice Guidance Without a Destination
 
 English translation of the Korean write-up · 2026-11-25
