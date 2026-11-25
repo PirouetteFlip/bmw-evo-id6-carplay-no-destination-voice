@@ -52,7 +52,7 @@ handleAltAudioUpdate(duckAudio, connectionID):
     if turnByTurn == 0:                   # cmp r0,#0 ; beq  ← 패치 전: 여기서 점프
         return                            # 안내음 경로를 요청하지 않음 → 소리 없음
 
-    requestBuildHighSyncConnection(안내음 경로)  # 0이 아니면 안내음 전달
+    requestBuildHighSyncConnection        # (안내음 경로) 0이 아니면 안내음 전달
                                           # → jacinto: source 23 → sink 4 연결
 ```
 
